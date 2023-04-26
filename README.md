@@ -4,10 +4,8 @@ This repository demonstrates how to implement a simple event-driven task queue w
 
 ## Features
 
-- Event-driven architecture
 - Concurrency control
 - Customizable task processing function
-- Easy horizontal scalability
 - High throughput and efficient resource utilization
 
 ## Prerequisites
